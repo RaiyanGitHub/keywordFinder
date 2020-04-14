@@ -9,7 +9,7 @@ package keywordfinder;
  *
  * @author U.S.E.R
  */
-public interface Prompt {
+public interface Planning {
     
     //1.     <<------- Take input from user : What fileName do you want to open?
     //                 Take File name
@@ -21,7 +21,5 @@ public interface Prompt {
     //5. exit
     
     
-    
-    
-    
+    public abstract void dataGen();   
 }
