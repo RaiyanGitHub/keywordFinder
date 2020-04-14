@@ -7,7 +7,7 @@ import java.io.File;
  *
  * @author ASUS
  */
-public class FileInformation {
+public class FileInformation {//example code from youtube
     public static void main(String[] args) {
         File myObj = new File ("D:\\4th sem\\oop\\FileHandling\\build\\classes\\Filef1.txt");
         if (myObj.exists())

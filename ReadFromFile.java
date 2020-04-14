@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author ASUS
  */
-public class ReadFromFile {
+public class ReadFromFile {//example code from youtube
     public static void main(String[] args) {
         boolean flow = true;
         while(flow){
